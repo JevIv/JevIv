@@ -34,4 +34,4 @@ Beside's programming, I enjoy engineering, podcasts, street workout and kettlebe
 
 
 
-![Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=JevIv&show_icons=true&hide_border=true)
+![Evgeny's github stats](https://github-readme-stats.vercel.app/api?username=JevIv&theme=dark&show_icons=true)
