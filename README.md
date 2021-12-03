@@ -8,9 +8,8 @@ Beside's programming, I enjoy engineering, podcasts, street workout and kettlebe
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning Django and ReactJS; 
+- 👨🏽‍💻 I’m currently learning ReactJS with TypeScript; 
 - 👯 I’m looking to collaborate on something cool! 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: jevgenijs240693@gmail.com;
 - 💬 Ask me about anything, I am happy to help;
 
