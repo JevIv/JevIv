@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-Hi, I'm Evgeny, a Software Developer 👨🏽‍💻, from Latvia, currently based in UK. 🚀
+Hi, I'm Evgeny, a Software Developer 👨🏽‍💻, currently based in UK. 🚀
 <br/>
 Beside's programming, I enjoy engineering, podcasts, street workout and kettlebells.💪
   
